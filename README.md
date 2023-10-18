@@ -1,1 +1,1 @@
-# Xtern_AI_Internship
+# Xtern_Artificial_Intelligence_Work_Prompt
